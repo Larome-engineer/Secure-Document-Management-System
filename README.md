@@ -2,7 +2,7 @@
 A system for ensuring secure document flow, integrated into a Telegram bot
 
 
-################################################################################# English #################################################################################
+###### English 
 
 Our team has developed a secure document management system SDMS-bot (Secure-Document-Management-System-bot), which is integrated into Telegram by obtaining a unique bot token that allows you to integrate various systems inside the Telegram messenger in the form of a chat robot. 
 
@@ -15,7 +15,7 @@ However, the above advantage is also a disadvantage, because the system is integ
 Since our SDMS-bot system is only one of the options for implementing secure document management systems and is not a real system that will go into production in the near future, but is just a solution to the task assigned to us, we neglected its shortcomings and focused on its advantages described above.
 
 
-################################################################################# Russian #################################################################################
+###### Russian 
 
 Наша команда разработала систему защищённого документооборота SDMS-bot (Secure-Document-Management-System-bot), которая интегрирована в Телеграм посредством получения уникального бот-токена, который позволяет интегрировать различные системы внутри мессенджера Телеграм в виде чат-робота. 
 
