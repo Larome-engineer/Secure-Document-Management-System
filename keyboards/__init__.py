@@ -1,0 +1,1 @@
+from keyboards.auth_menu_keyboard import auth_keyboard
